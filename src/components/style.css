@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Young Serif', serif;
+}
+
+body {
+    background-color: #F1C93B;
+}
+
+.main {
+    width: 88%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.heading {
+    
+    
+}
+
+.heading h1 {
+    
+    color: #030e12;
+    font-size: 48px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    padding-top: 2rem;
+    margin: 1rem;
+}
+
+.search-bar {
+    margin: 1rem 0;
+    width: 400px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 1rem;
+    padding: 0.3rem 1rem;
+    background-color: #FAE392;
+
+}
+
+@media  screen and (max-width: 720px) {
+    .search-bar {
+        width: 200px;
+    }
+
+    .indexContainer {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 300px;
+        
+        
+    }
+
+    
+}
+
+.container {
+    width: 80%;
+    margin: 25px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #FBD85D;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1 1 150px; 
+    max-width: 180px; 
+    border-radius: 1rem;
+    background-color: #030e12;
+    padding: 5px;
+    margin: 10px;
+    transition: 0.3s;
+    align-items: center;
+    
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+img {
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+
+}
+
+.card h3 {
+    color: white;
+    font-size: 15px;
+}
+
+.indexContainer {
+    display: flex;
+    margin: 2.5rem 0;
+    cursor: pointer;
+
+
+}
+
+.numBox {
+    width: 50px;
+    height: 40px;
+    background-color: #030e12;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    margin: 0 5px 0 5px;
+    border-radius: 5px;
+
+}
+
+.card button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: orange;
+    width: 100px;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 16px;
+    
+    
+    
+    
+    
+}
+
+.card button:hover {
+    cursor: pointer;
+    background-color: rgb(248, 175, 38);
+}
