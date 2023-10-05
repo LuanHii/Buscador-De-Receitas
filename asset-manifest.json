@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Buscador-De-Receitas/static/css/main.57b29f71.css",
-    "main.js": "/Buscador-De-Receitas/static/js/main.1f9e403a.js",
+    "main.js": "/Buscador-De-Receitas/static/js/main.81c8e6a2.js",
     "static/js/787.13aee4be.chunk.js": "/Buscador-De-Receitas/static/js/787.13aee4be.chunk.js",
     "index.html": "/Buscador-De-Receitas/index.html",
     "main.57b29f71.css.map": "/Buscador-De-Receitas/static/css/main.57b29f71.css.map",
-    "main.1f9e403a.js.map": "/Buscador-De-Receitas/static/js/main.1f9e403a.js.map",
+    "main.81c8e6a2.js.map": "/Buscador-De-Receitas/static/js/main.81c8e6a2.js.map",
     "787.13aee4be.chunk.js.map": "/Buscador-De-Receitas/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b29f71.css",
-    "static/js/main.1f9e403a.js"
+    "static/js/main.81c8e6a2.js"
   ]
 }
