@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.57b29f71.css",
-    "main.js": "/static/js/main.a37c2213.js",
-    "static/js/787.13aee4be.chunk.js": "/static/js/787.13aee4be.chunk.js",
-    "index.html": "/index.html",
-    "main.57b29f71.css.map": "/static/css/main.57b29f71.css.map",
-    "main.a37c2213.js.map": "/static/js/main.a37c2213.js.map",
-    "787.13aee4be.chunk.js.map": "/static/js/787.13aee4be.chunk.js.map"
+    "main.css": "/Buscador-De-Receitas/static/css/main.57b29f71.css",
+    "main.js": "/Buscador-De-Receitas/static/js/main.b80f115c.js",
+    "static/js/787.13aee4be.chunk.js": "/Buscador-De-Receitas/static/js/787.13aee4be.chunk.js",
+    "index.html": "/Buscador-De-Receitas/index.html",
+    "main.57b29f71.css.map": "/Buscador-De-Receitas/static/css/main.57b29f71.css.map",
+    "main.b80f115c.js.map": "/Buscador-De-Receitas/static/js/main.b80f115c.js.map",
+    "787.13aee4be.chunk.js.map": "/Buscador-De-Receitas/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b29f71.css",
-    "static/js/main.a37c2213.js"
+    "static/js/main.b80f115c.js"
   ]
 }
